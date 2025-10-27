@@ -1,0 +1,59 @@
+Factors
+	1.Print the Factors
+	2.Sum of the Factors
+	3.Product of the Factors
+	4.Factors of each digit
+prime
+	1.Prime
+		1.Check Prime
+		2.Nth Prime
+		3.Next Prime
+	2.Twisted Prime
+		1.Check TwistedPrime
+		2.Nth TwistedPrime
+		3.Next TwistedPrime
+	3.Mega Prime
+		1.Check MegaPrime
+		2.Nth MegaPrime
+		3.Next MegaPrime
+Digits
+	1.Sum of Digits
+	2.Product of Digits
+	3.Sum of Even Digits
+	4.Sum of Extreme and Mean Digits
+	5.Sum of First half and Second half Digits
+Exponential
+	1.Exponential of Each Digit to Count of Digits
+	2.Sum of Exponential of Each Digit to count of Digits
+	3.Sum of Exponential of Even Digit to count of Digits
+	4.Sum of Exponential of Odd Digit to count of Digits
+Advance
+	1.Palindrome
+		1.Check Palindrome
+		2.Nth Palindrome
+	2.Spy
+		1.Check Spy
+	3.Armstrong
+		1.Check Armstrong
+		2.Nth Armstrong
+	4.Tech Number
+		1.Check TechNumber
+	5.Happy Number
+		1.Check Happy Number
+		2.Nth Happy Number
+	6.Magic NUmber
+		1.Check Magic Number
+		2.Nth Magic Number
+	7.HCF and LCM
+		1.HCF
+		2.LCM
+	8.Decimal-Binary
+		1.Decimal to Binary
+		2.Binary to Decimal
+	9.Series terms
+		1.Fibinocci terms
+			1.First n terms
+			2.Nth Fibinocci terms
+		2.Perfect Squares
+			1.First n terms
+			2.Nth Perfect Square
